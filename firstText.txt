@@ -1,2 +1,2 @@
 test linux termianl
-use vim to add or delete ?
+use vim to add or delete file.
