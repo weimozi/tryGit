@@ -1,7 +1,2 @@
-test linux termianl
-use vim to add or delete file.
-git diff 
-working directory  repository stage master checkout
-last line make difference
-test again 
-feature has only
+line make difference
+test againfdf sdfsdf： 
