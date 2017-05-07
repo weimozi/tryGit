@@ -2,4 +2,5 @@ test linux termianl
 use vim to add or delete file.
 git diff 
 working directory  repository stage master checkout
-test
+last line make difference
+
